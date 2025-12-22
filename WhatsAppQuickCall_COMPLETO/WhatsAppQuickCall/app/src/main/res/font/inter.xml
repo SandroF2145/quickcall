@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Usando Roboto que é similar à Inter e nativa do Android -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@android:string/font_family_medium" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="500"
+        android:font="@android:string/font_family_medium" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@android:string/font_family_medium" />
+</font-family>
